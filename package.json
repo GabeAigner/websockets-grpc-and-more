@@ -1,0 +1,24 @@
+{
+  "name": "websockets-grpc-and-more",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielaigner/websockets-grpc-and-more.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielaigner/websockets-grpc-and-more/issues"
+  },
+  "homepage": "https://github.com/gabrielaigner/websockets-grpc-and-more#readme",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^4.0.1",
+    "asciidoctor": "^2.2.0"
+  }
+}
