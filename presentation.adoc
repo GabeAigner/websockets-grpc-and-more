@@ -1,10 +1,21 @@
 = Websockets, gRPC and more
 :revealjs_theme: solarized
+:revealjs_controls: false
+:revealjs_progress: false
+:customcss: custom.css
 
 by Gabriel Aigner
 
-== Slide One
+== Websockets
 
 * Foo
 * Bar
 * World
+
+[%notitle]
+== Websockets Showcase
+
+image::img/websockets.png[background, size=cover]
+
+[.source-link]
+Quelle: https://youtu.be/2Nt-ZrNP22A
