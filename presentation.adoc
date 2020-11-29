@@ -15,6 +15,16 @@ by Gabriel Aigner
 [%notitle]
 == Websockets Showcase
 
+// TODO: https://www.ionos.at/digitalguide/websites/web-entwicklung/was-ist-websocket/
+
+image::img/websockets.png[background, size=cover]
+
+[.source-link]
+Quelle: https://youtu.be/2Nt-ZrNP22A
+
+[%notitle]
+== Websockets Showcase
+
 image::img/websockets.png[background, size=cover]
 
 [.source-link]
