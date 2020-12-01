@@ -34,3 +34,8 @@ Server-sent Events
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
+
+
+=== How Do SSE Work?
+
+image::img/sse.jpg[]
