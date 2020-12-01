@@ -1,0 +1,41 @@
+= Websockets, gRPC and more
+:revealjs_theme: white
+:revealjs_controls: false
+:revealjs_progress: false
+:customcss: custom.css
+
+by Gabriel Aigner
+
+== Websockets
+
+=== Webockets Use Cases
+
+* Live Chat (Support-Chats)
+* Social Media Live Feed
+* Multiplayer Gaming
+
+
+=== When to use Websockets?
+
+* Fast Reaction Time
+* Ongoing Updates
+* Multiplayer Gaming
+
+=== How Do Websockets Work?
+
+image::img/websockets.jpg[]
+
+== SSE
+
+Server-sent Events
+
+=== SSE Use Cases
+
+* Live Chat (zB Support-Chats)
+* Social Media Live Feed
+* Multiplayer Gaming
+
+
+=== How Do SSE Work?
+
+image::img/sse.jpg[]

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/BroadcastResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/BroadcastResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/ChatSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/ChatSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/websockets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../presentation.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../presentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kyVjKrJ5pKQthLSQ5IAdWhO0RZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../business/projects/audally/audally/backend-api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="" />
+      <created>1606672951547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606672951547</updated>
+      <workItem from="1606672953222" duration="296000" />
+      <workItem from="1606673866771" duration="8114000" />
+      <workItem from="1606726014561" duration="1401000" />
+      <workItem from="1606833450359" duration="6793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="274" width="732" height="644" key="#Inspections" timestamp="1606855053140">
+      <screen x="0" y="27" width="1920" height="1131" />
+    </state>
+    <state x="589" y="274" width="732" height="644" key="#Inspections/0.27.1920.1131/1920.120.1920.1080@0.27.1920.1131" timestamp="1606855053140" />
+    <state x="2650" y="303" width="438" height="686" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606681116980">
+      <screen x="1920" y="120" width="1920" height="1080" />
+    </state>
+    <state x="2650" y="303" width="438" height="686" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1131/1920.120.1920.1080@1920.120.1920.1080" timestamp="1606681116980" />
+    <state x="743" y="350" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606727423906">
+      <screen x="0" y="27" width="1920" height="1131" />
+    </state>
+    <state x="743" y="350" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1131/1920.120.1920.1080@0.27.1920.1131" timestamp="1606727423906" />
+    <state x="2000" y="208" width="1022" height="737" key="SettingsEditor" timestamp="1606856989589">
+      <screen x="1920" y="120" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="208" width="1022" height="737" key="SettingsEditor/0.27.1920.1131/1920.120.1920.1080@0.27.1920.1131" timestamp="1606856989589" />
+    <state x="741" y="507" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606854939336">
+      <screen x="0" y="27" width="1920" height="1131" />
+    </state>
+    <state x="741" y="507" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1131/1920.120.1920.1080@0.27.1920.1131" timestamp="1606854939336" />
+    <state x="624" y="271" key="run.anything.popup" timestamp="1606856582511">
+      <screen x="0" y="27" width="1920" height="1131" />
+    </state>
+    <state x="624" y="271" key="run.anything.popup/0.27.1920.1131/1920.120.1920.1080@0.27.1920.1131" timestamp="1606856582511" />
+    <state x="2543" y="348" width="672" height="678" key="search.everywhere.popup" timestamp="1606674313774">
+      <screen x="1920" y="120" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="348" width="672" height="678" key="search.everywhere.popup/0.27.1920.1131/1920.120.1920.1080@1920.120.1920.1080" timestamp="1606674313774" />
+  </component>
+</project>
