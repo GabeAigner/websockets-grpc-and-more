@@ -1,5 +1,5 @@
 = Websockets, gRPC and more
-:revealjs_theme: solarized
+:revealjs_theme: white
 :revealjs_controls: false
 :revealjs_progress: false
 :customcss: custom.css
@@ -8,24 +8,19 @@ by Gabriel Aigner
 
 == Websockets
 
-* Foo
-* Bar
-* World
+=== Webockets Use Cases
 
-[%notitle]
-== Websockets Showcase
+* Live Chat (Support-Chats)
+* Social Media Live Feed
+* Multiplayer Gaming
 
-// TODO: https://www.ionos.at/digitalguide/websites/web-entwicklung/was-ist-websocket/
 
-image::img/websockets.png[background, size=cover]
+=== When to use Websockets?
 
-[.source-link]
-Quelle: https://youtu.be/2Nt-ZrNP22A
+* Fast Reaction Time
+* Ongoing Updates
+* Multiplayer Gaming
 
-[%notitle]
-== Websockets Showcase
+=== How Do Websockets Work?
 
-image::img/websockets.png[background, size=cover]
-
-[.source-link]
-Quelle: https://youtu.be/2Nt-ZrNP22A
+image::img/websockets.jpg[]
