@@ -19,7 +19,6 @@ public class BroadcastResource {
 
     private SseBroadcaster broadcaster;
     private Sse sse;
-    private int count = 0;
 
     @GET
     public void registerClient(@Context Sse sse, @Context SseEventSink eventSink) {
@@ -34,8 +33,7 @@ public class BroadcastResource {
     @Scheduled(every="5s")
     public void notifyClient() {
         if (broadcaster != null){
-            System.out.println("SSE: " + count++);
-            this.broadcaster.broadcast(this.sse.newEvent(count + ". Hello 5BHIF!"));
+            this.broadcaster.broadcast(this.sse.newEvent("Hello 5BHIF!"));
         }
     }
 }
