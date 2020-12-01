@@ -225,5 +225,15 @@
     <orderEntry type="library" name="Maven: io.quarkus:quarkus-scheduler:1.9.2.Final" level="project" />
     <orderEntry type="library" name="Maven: com.cronutils:cron-utils:9.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.slf4j:slf4j-jboss-logging:1.2.0.Final" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Quarkus (deployment)">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+  <component name="Quarkus Tools">
+    <option name="hash" value="-1771113457" />
   </component>
 </module>
