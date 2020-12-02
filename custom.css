@@ -1,3 +1,6 @@
+.reveal section img { background:none; border:none; box-shadow:none; }
+
+
 .source-link {
   margin-top: 42rem;
   font-size: large;
