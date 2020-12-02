@@ -12,6 +12,11 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
+/**
+ * gRPC Consumer - Example Resource
+ *
+ * @author Gabriel Aigner
+ */
 @Path("/hello")
 public class ExampleResource {
 

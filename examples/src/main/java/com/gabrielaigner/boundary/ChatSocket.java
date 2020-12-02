@@ -12,6 +12,11 @@ import javax.websocket.server.PathParam;
 import javax.websocket.server.ServerEndpoint;
 import javax.websocket.Session;
 
+/**
+ * Websockets Example
+ *
+ * @author Gabriel Aigner
+ */
 @ApplicationScoped
 @ServerEndpoint("/chat/{name}")
 public class ChatSocket {

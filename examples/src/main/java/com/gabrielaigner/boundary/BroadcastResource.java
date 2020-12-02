@@ -12,6 +12,11 @@ import javax.ws.rs.sse.Sse;
 import javax.ws.rs.sse.SseBroadcaster;
 import javax.ws.rs.sse.SseEventSink;
 
+/**
+ * Server Sent Event Example Resource
+ *
+ * @author Gabriel Aigner
+ */
 @Path("sse")
 @ApplicationScoped
 @Produces(MediaType.SERVER_SENT_EVENTS)
