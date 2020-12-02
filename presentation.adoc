@@ -30,12 +30,23 @@ Server-sent Events
 
 === SSE Use Cases
 
-* Live Chat (zB Support-Chats)
 * Social Media Live Feed
-* Multiplayer Gaming
+* Notifications to browser
+* Stock ticker streaming
+
+=== Why use SSE?
+
+* Transported over simple HTTP instead of a custom protocol
+
+* Built in support for re-connection and event-id
+
 
 
 === How Do SSE Work?
+
+```
+curl -i http://localhost:8080
+```
 
 image::img/sse.jpg[]
 
@@ -44,33 +55,34 @@ image::img/sse.jpg[]
 gRPC Remote Procedure Calls
 
 === gRPC Use Cases
-
+// TODO
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
 
+=== When to use gRPC?
+
+* // TODO
+
 
 === How Does gRPC Work?
-
+// TODO
 image::img/sse.jpg[]
 
 == Webhooks
 
-Server-sent Events
-
-=== Webhooks Use Cases
-
+=== Where are Webhooks used?
+// TODO
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
 
-
 === How Do Webhooks Work?
-
+// TODO
 image::img/sse.jpg[]
 
 == Sources
-
+// TODO
 https://sookocheff.com/post/networking/how-do-websockets-work/
 
 https://youtu.be/2Nt-ZrNP22A

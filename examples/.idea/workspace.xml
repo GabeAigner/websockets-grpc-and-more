@@ -23,14 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/BroadcastResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/BroadcastResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/ChatSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/ChatSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/websockets.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../presentation.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../presentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1606672953222" duration="296000" />
       <workItem from="1606673866771" duration="8114000" />
       <workItem from="1606726014561" duration="1401000" />
-      <workItem from="1606833450359" duration="6793000" />
+      <workItem from="1606833450359" duration="7414000" />
     </task>
     <servers />
   </component>
