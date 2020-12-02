@@ -56,11 +56,11 @@ gRPC Remote Procedure Calls
 === Why use gRPC?
 
 * built on HTTP/2, supports traditional Request/Response model and bidirectional streams
-* Because of the binary data format, it is very lightweight
+* because of the binary data format, it is very lightweight
 
 === How Does gRPC Work?
-// TODO
-image::img/sse.jpg[]
+
+image::img/gRPC.png[]
 
 == Webhooks
 
