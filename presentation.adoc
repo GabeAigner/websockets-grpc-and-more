@@ -89,3 +89,7 @@ https://www.baeldung.com/java-ee-jax-rs-sse
 https://youtu.be/4HlNv1qpZFY
 
 http://brianyang.com/working-with-webhooks/
+
+== Websockets, gRPC and more
+
+by Gabriel Aigner
