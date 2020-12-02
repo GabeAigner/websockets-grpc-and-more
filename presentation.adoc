@@ -19,7 +19,6 @@ by Gabriel Aigner
 
 * Fast Reaction Time
 * Ongoing Updates
-* Multiplayer Gaming
 
 === How Do Websockets Work?
 
@@ -31,11 +30,66 @@ Server-sent Events
 
 === SSE Use Cases
 
+* Social Media Live Feed
+* Notifications to browser
+* Stock ticker streaming
+
+=== Why use SSE?
+
+* transported over simple HTTP instead of a custom protocol
+
+* built in support for re-connection
+
+
+
+=== How Do SSE Work?
+// TODO
+
+```
+curl -i http://localhost:8080
+```
+
+image::img/sse.jpg[]
+
+== gRPC
+
+gRPC Remote Procedure Calls
+
+=== gRPC Use Cases
+// TODO
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
 
+=== When to use gRPC?
 
-=== How Do SSE Work?
+* // TODO
 
+=== How Does gRPC Work?
+// TODO
 image::img/sse.jpg[]
+
+== Webhooks
+
+=== How Do Webhooks Work?
+
+image::img/webhooks.png[]
+
+[.source-link]
+Image source: http://brianyang.com/working-with-webhooks/
+
+== Sources
+// TODO
+https://sookocheff.com/post/networking/how-do-websockets-work/
+
+https://youtu.be/2Nt-ZrNP22A
+
+https://www.baeldung.com/java-ee-jax-rs-sse
+
+https://youtu.be/4HlNv1qpZFY
+
+http://brianyang.com/working-with-webhooks/
+
+== Websockets, gRPC and more
+
+by Gabriel Aigner
