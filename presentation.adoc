@@ -19,7 +19,6 @@ by Gabriel Aigner
 
 * Fast Reaction Time
 * Ongoing Updates
-* Multiplayer Gaming
 
 === How Do Websockets Work?
 
@@ -44,29 +43,29 @@ image::img/sse.jpg[]
 
 gRPC Remote Procedure Calls
 
-=== SSE Use Cases
+=== gRPC Use Cases
 
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
 
 
-=== How Do SSE Work?
+=== How Does gRPC Work?
 
 image::img/sse.jpg[]
 
-== SSE
+== Webhooks
 
 Server-sent Events
 
-=== SSE Use Cases
+=== Webhooks Use Cases
 
 * Live Chat (zB Support-Chats)
 * Social Media Live Feed
 * Multiplayer Gaming
 
 
-=== How Do SSE Work?
+=== How Do Webhooks Work?
 
 image::img/sse.jpg[]
 
