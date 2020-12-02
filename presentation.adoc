@@ -48,14 +48,15 @@ image::img/sse.jpg[]
 gRPC Remote Procedure Calls
 
 === gRPC Use Cases
-// TODO
-* Live Chat (zB Support-Chats)
-* Social Media Live Feed
-* Multiplayer Gaming
 
-=== When to use gRPC?
+* Internet Of Things
+* internal microservice communication
+* energy efficient systems
 
-* // TODO
+=== Why use gRPC?
+
+* built on HTTP/2, supports traditional Request/Response model and bidirectional streams
+* Because of the binary data format, it is very lightweight
 
 === How Does gRPC Work?
 // TODO
@@ -92,6 +93,9 @@ https://youtu.be/qQLVCgmiMgQ
 
 [.source-slide]
 https://www.youtube.com/watch?v=Yw4rkaTc0f8&t=154s
+
+[.source-slide]
+https://dzone.com/articles/why-grpc-for-inter-microservice-communication
 
 [.source-slide]
 https://quarkus.io/guides/grpc-getting-started
