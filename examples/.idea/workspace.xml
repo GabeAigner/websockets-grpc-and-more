@@ -22,14 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielaigner/boundary/ExampleResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/proto/helloworld.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/helloworld.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +90,7 @@
       <workItem from="1606726014561" duration="1401000" />
       <workItem from="1606833450359" duration="7414000" />
       <workItem from="1606922704321" duration="6421000" />
-      <workItem from="1606938490586" duration="4287000" />
+      <workItem from="1606938490586" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="Add gRPC and Protobuf dependencies">
       <created>1606925513438</created>
@@ -113,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606927071300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change to jdk 14">
+      <created>1606949908992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606949908992</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add protofile helloworld.proto">
+      <created>1606949925377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606949925377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ExampleResource and config grpc clients">
+      <created>1606949960726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606949960726</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +148,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add gRPC and Protobuf dependencies" />
     <MESSAGE value="Add protofile with Service definition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add protofile with Service definition" />
+    <MESSAGE value="Change to jdk 14" />
+    <MESSAGE value="Add protofile helloworld.proto" />
+    <MESSAGE value="Add ExampleResource and config grpc clients" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ExampleResource and config grpc clients" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="274" width="732" height="644" key="#Inspections" timestamp="1606855053140">
