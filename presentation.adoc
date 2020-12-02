@@ -36,13 +36,14 @@ Server-sent Events
 
 === Why use SSE?
 
-* Transported over simple HTTP instead of a custom protocol
+* transported over simple HTTP instead of a custom protocol
 
-* Built in support for re-connection and event-id
+* built in support for re-connection
 
 
 
 === How Do SSE Work?
+// TODO
 
 ```
 curl -i http://localhost:8080
@@ -64,22 +65,18 @@ gRPC Remote Procedure Calls
 
 * // TODO
 
-
 === How Does gRPC Work?
 // TODO
 image::img/sse.jpg[]
 
 == Webhooks
 
-=== Where are Webhooks used?
-// TODO
-* Live Chat (zB Support-Chats)
-* Social Media Live Feed
-* Multiplayer Gaming
-
 === How Do Webhooks Work?
-// TODO
-image::img/sse.jpg[]
+
+image::img/webhooks.png[]
+
+[.source-link]
+Image source: http://brianyang.com/working-with-webhooks/
 
 == Sources
 // TODO
