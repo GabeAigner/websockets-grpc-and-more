@@ -79,16 +79,36 @@ image::img/webhooks.png[]
 Image source: http://brianyang.com/working-with-webhooks/
 
 == Sources
-// TODO
+
+[.source-slide]
 https://sookocheff.com/post/networking/how-do-websockets-work/
 
+[.source-slide]
 https://youtu.be/2Nt-ZrNP22A
 
+[.source-slide]
+https://quarkus.io/guides/websockets
+
+[.source-slide]
 https://www.baeldung.com/java-ee-jax-rs-sse
 
+[.source-slide]
 https://youtu.be/4HlNv1qpZFY
 
+[.source-slide]
+https://youtu.be/qQLVCgmiMgQ
+
+[.source-slide]
+https://www.youtube.com/watch?v=Yw4rkaTc0f8&t=154s
+
+[.source-slide]
+https://quarkus.io/guides/grpc-getting-started
+
+[.source-slide]
 http://brianyang.com/working-with-webhooks/
+
+[.source-slide]
+https://dev.to/alokkumarsbg/webhook-or-reverse-api-37o1
 
 == Websockets, gRPC and more
 
