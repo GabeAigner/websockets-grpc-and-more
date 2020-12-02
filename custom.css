@@ -1,9 +1,14 @@
 .reveal section img { background:none; border:none; box-shadow:none; }
 
+.source-slide{
+  font-size: large;
+}
+
 .source-link {
   font-size: small;
   color: gray;
 }
+
 .reveal a{
   text-decoration: none;
   color: gray;
