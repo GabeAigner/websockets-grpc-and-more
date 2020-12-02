@@ -109,3 +109,8 @@ https://dev.to/alokkumarsbg/webhook-or-reverse-api-37o1
 == Websockets, gRPC and more
 
 by Gabriel Aigner
+
+[.source-slide]
+Slides und examples: 
+[.source-slide]
+https://github.com/gabrielaigner/websockets-grpc-and-more
