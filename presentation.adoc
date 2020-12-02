@@ -39,3 +39,45 @@ Server-sent Events
 === How Do SSE Work?
 
 image::img/sse.jpg[]
+
+== gRPC
+
+gRPC Remote Procedure Calls
+
+=== SSE Use Cases
+
+* Live Chat (zB Support-Chats)
+* Social Media Live Feed
+* Multiplayer Gaming
+
+
+=== How Do SSE Work?
+
+image::img/sse.jpg[]
+
+== SSE
+
+Server-sent Events
+
+=== SSE Use Cases
+
+* Live Chat (zB Support-Chats)
+* Social Media Live Feed
+* Multiplayer Gaming
+
+
+=== How Do SSE Work?
+
+image::img/sse.jpg[]
+
+== Sources
+
+https://sookocheff.com/post/networking/how-do-websockets-work/
+
+https://youtu.be/2Nt-ZrNP22A
+
+https://www.baeldung.com/java-ee-jax-rs-sse
+
+https://youtu.be/4HlNv1qpZFY
+
+http://brianyang.com/working-with-webhooks/
