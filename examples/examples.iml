@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Quarkus" name="Quarkus">
+      <configuration />
+    </facet>
+  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
@@ -11,6 +16,13 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Quarkus (deployment)">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Maven: io.quarkus:quarkus-grpc:1.9.2.Final" level="project" />
     <orderEntry type="library" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
@@ -225,13 +237,6 @@
     <orderEntry type="library" name="Maven: io.quarkus:quarkus-scheduler:1.9.2.Final" level="project" />
     <orderEntry type="library" name="Maven: com.cronutils:cron-utils:9.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.slf4j:slf4j-jboss-logging:1.2.0.Final" level="project" />
-    <orderEntry type="module-library" scope="PROVIDED">
-      <library name="Quarkus (deployment)">
-        <CLASSES />
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
   </component>
   <component name="Quarkus Tools">
     <option name="hash" value="-1771113457" />

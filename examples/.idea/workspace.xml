@@ -23,8 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31e6784a-1e2d-407d-ac5c-d1fdba21aec2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../presentation.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../presentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +68,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,6 +80,7 @@
       <workItem from="1606673866771" duration="8114000" />
       <workItem from="1606726014561" duration="1401000" />
       <workItem from="1606833450359" duration="7414000" />
+      <workItem from="1606922704321" duration="1101000" />
     </task>
     <servers />
   </component>
