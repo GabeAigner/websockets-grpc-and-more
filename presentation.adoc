@@ -37,17 +37,9 @@ Server-sent Events
 === Why use SSE?
 
 * transported over simple HTTP instead of a custom protocol
-
 * built in support for re-connection
 
-
-
 === How Do SSE Work?
-// TODO
-
-```
-curl -i http://localhost:8080
-```
 
 image::img/sse.jpg[]
 
