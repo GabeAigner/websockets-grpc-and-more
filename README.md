@@ -1,8 +1,6 @@
 # Websockets, gRPC and more
 
-### by Gabriel Aigner
-
-A talk about how websockets, grpc, sse and webhooks work and are implemented.
+A talk about the topics websockets, grpc, sse and webhooks and how to implement them.
 
 ## Slides
 
@@ -10,4 +8,5 @@ The HTML file for the slides is [presentation.html](/presentation.html) and will
 
 ## Code Examples
 
-Code examples are provided in the [examples](/examples) directory.
+Code examples with detailed description of the classes and methods, are provided in the [examples](/examples) directory.
+The examples directory is a Quarkus project.
