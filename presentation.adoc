@@ -8,7 +8,7 @@ by Gabriel Aigner
 
 == Websockets
 
-=== Webockets Use Cases
+=== Websockets Use Cases
 
 * Live Chat (Support-Chats)
 * Social Media Live Feed
