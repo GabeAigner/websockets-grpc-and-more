@@ -25,6 +25,10 @@ public class BroadcastResource {
     private SseBroadcaster broadcaster;
     private Sse sse;
 
+    /**
+     * registerClient - checks if the broadcaster is null and
+     * registers the Client on the SseBroadcaster.
+     */
     @GET
     public void registerClient(@Context Sse sse, @Context SseEventSink eventSink) {
         this.sse = sse;
@@ -35,6 +39,10 @@ public class BroadcastResource {
         this.broadcaster.register(eventSink);
     }
 
+    /**
+     * notifyClient - gets called every 5s and
+     * broadcasts a message to all subscribed clients.
+     */
     @Scheduled(every="5s")
     public void notifyClient() {
         if (broadcaster != null){

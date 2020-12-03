@@ -1,6 +1,5 @@
 package com.gabrielaigner.boundary;
 
-
 import io.quarkus.example.GreeterGrpc;
 import io.quarkus.example.HelloRequest;
 import io.quarkus.grpc.runtime.annotations.GrpcService;
@@ -14,8 +13,6 @@ import javax.ws.rs.core.MediaType;
 
 /**
  * gRPC Consumer - Example Resource
- *
- * @author Gabriel Aigner
  */
 @Path("/hello")
 public class ExampleResource {
@@ -30,6 +27,9 @@ public class ExampleResource {
         return "hello";
     }
 
+    /**
+     * onOpen - an Endpoint that calls the gRPC service
+     */
     @GET
     @Path("/{name}")
     public String hello(@PathParam("name") String name) {
